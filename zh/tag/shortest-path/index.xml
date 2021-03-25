@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shortest path | Chinese website title...</title>
+    <link>https://ruixu.netlify.app/zh/tag/shortest-path/</link>
+      <atom:link href="https://ruixu.netlify.app/zh/tag/shortest-path/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shortest path</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 25 Aug 2019 06:29:29 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shortest path</title>
+      <link>https://ruixu.netlify.app/zh/tag/shortest-path/</link>
+    </image>
+    
+    <item>
+      <title>牛津郡无人机血液运输问题路径规划</title>
+      <link>https://ruixu.netlify.app/zh/project/route-planning-for-oxfordshire-uav-blood-transport/</link>
+      <pubDate>Sun, 25 Aug 2019 06:29:29 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/route-planning-for-oxfordshire-uav-blood-transport/</guid>
+      <description>&lt;!-- 血液制品对保存条件要求较高，如何快速地完成血液制品的运输是一个具有挑战性的问题。在这个项目中，我们针对无人机血液运输场景，以牛津郡为范围，综合考虑了法律、环境、人口等多个影响因素，评估使用无人机完成血液制品运输的可行性。 --&gt;
+&lt;p&gt;血液制品对保存条件要求较高，如何快速地完成血液制品的运输是一个具有挑战性的问题。在这个项目中，我们针对无人机血液运输场景，以牛津郡为范围，综合考虑了法律、环境、人口等多个影响因素，评估使用无人机完成血液制品运输的可行性。&lt;/p&gt;
+&lt;!-- 这个项目是在牛津大学完成的。 --&gt;
+&lt;p&gt;这个项目是在牛津大学完成的。 下方是一个结果展示视频。&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://ruixu.netlify.app/media/Brian%20Amy%20The%20British%20Grenadiers.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

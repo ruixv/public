@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image resoration | Chinese website title...</title>
+    <link>https://ruixu.netlify.app/zh/tag/image-resoration/</link>
+      <atom:link href="https://ruixu.netlify.app/zh/tag/image-resoration/index.xml" rel="self" type="application/rss+xml" />
+    <description>image resoration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 25 Sep 2017 07:38:57 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>image resoration</title>
+      <link>https://ruixu.netlify.app/zh/tag/image-resoration/</link>
+    </image>
+    
+    <item>
+      <title>CT系统参数标定和成像</title>
+      <link>https://ruixu.netlify.app/zh/project/ct-reconstruction/</link>
+      <pubDate>Mon, 25 Sep 2017 07:38:57 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/ct-reconstruction/</guid>
+      <description>&lt;p&gt;本项目针对对CT系统参数标定问题，基于直接搜索的方法，建立了两个非线性规划模型，得到CT系统的3个参数；针对CT系统接收器接收信息的还原问题，建立了利用Radon反变换进行求解、切线区域取交集法进行验证的复原模型。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

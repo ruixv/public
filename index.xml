@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruixu&#39;s Homepage</title>
+    <link>https://ruixu.netlify.app/</link>
+      <atom:link href="https://ruixu.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruixu&#39;s Homepage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ruixu&#39;s Homepage</title>
+      <link>https://ruixu.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://ruixu.netlify.app/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A paper about passive NLOS imaging</title>
+      <link>https://ruixu.netlify.app/publication/a-paper-about-passive-nlos-imaging/</link>
+      <pubDate>Thu, 25 Mar 2021 02:26:10 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/a-paper-about-passive-nlos-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Preserving Extremely Low Light Image Enhancement with Fractional Order Differential Mask Guidance</title>
+      <link>https://ruixu.netlify.app/publication/structure-preserving-extremely-low-light-image-enhancement-with-fractional-order-differential-mask-guidance/</link>
+      <pubDate>Thu, 25 Mar 2021 02:03:03 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/structure-preserving-extremely-low-light-image-enhancement-with-fractional-order-differential-mask-guidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive NLOS imaging based on menifold embedding</title>
+      <link>https://ruixu.netlify.app/project/passive-nlos-imaging-based-on-menifold-embedding/</link>
+      <pubDate>Sun, 25 Oct 2020 06:28:31 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/passive-nlos-imaging-based-on-menifold-embedding/</guid>
+      <description>&lt;!-- 被动非视距成像是一个极为病态的问题，本项目旨在通过深度学习完成数据驱动的被动非视距成像任务。所提出的算法能够利用之前未被充分利用的场景先验，从而提高被动非视距成像的效果。 --&gt;
+&lt;p&gt;Passive NLOS imaging is an extremely pathological problem. This project aims to complete data-driven passive NLOS imaging through deep learning. The proposed algorithm can make use of previously underutilized scene priors, thereby improving the effect of passive NLOS imaging.&lt;/p&gt;
+&lt;!-- 我们还采集了一个有着more than 3,000,000样本的数据集，希望能够缓解非视距成像所面临的数据集不足问题。毕竟监督算法的性能在很大程度上取决于数据集的质量。 --&gt;
+&lt;p&gt;We also collected a data set with more than 3,000,000 samples, hoping to alleviate the problem of insufficient data set faced by NLOS imaging. After all, the performance of the supervised algorithm depends to a large extent on the quality of the dataset.&lt;/p&gt;
+&lt;!-- 本项目已经提交到了一个期刊。 --&gt;
+&lt;p&gt;This project has been submitted to a journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build Confocal NLOS Imaging platform </title>
+      <link>https://ruixu.netlify.app/project/build-confocal-nlos-imaging-platform/</link>
+      <pubDate>Sat, 25 Jan 2020 04:41:26 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/build-confocal-nlos-imaging-platform/</guid>
+      <description>&lt;!-- 2018年中，在导师的指导下，我们打算follow 斯坦福大学O&#39;Toole等人在 time-resolved NLOS imaging上的工作
+
+M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: https://doi.org/10.1038/nature25489.
+
+并购买了相应的设备，包括超快脉冲激光器、单光子雪崩二极管、时间相关单光子计数器等，并购买了光学平台。
+
+尽管我们实验室并没有光学实验的基础，但我们还是建立了共焦NLOS成像系统。这个系统目前能够对一些简单的NLOS场景成像，但仍存在时间抖动很大的问题。目前我们正在积极解决已经发现的问题。 --&gt;
+&lt;p&gt;In mid-2018, under the guidance of our mentor, we plan to follow the work of Stanford University O&amp;rsquo;Toole and others on time-resolved NLOS imaging&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: &lt;a href=&#34;https://doi.org/10.1038/nature25489&#34;&gt;https://doi.org/10.1038/nature25489&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We purchased corresponding equipment, including ultrafast pulse lasers, single-photon avalanche diodes, time-dependent single-photon counters, etc., and purchased an optical platform.&lt;/p&gt;
+&lt;p&gt;Although our laboratory does not have a basis for optical experiments, we have established a confocal NLOS imaging system. This system can currently image some simple NLOS scenes, but there is still a problem of large time jitter (which means a low horizontal resolution). At present, we are trying our best to improve the reconstruction quality from both perspective of hardware and algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time-resolved NLOS imaging algorithm based on GAN</title>
+      <link>https://ruixu.netlify.app/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</link>
+      <pubDate>Wed, 25 Sep 2019 07:10:12 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</guid>
+      <description>&lt;!-- 本项目是我的本科毕业设计，它的摘要如下。 --&gt;
+&lt;p&gt;This project is my undergraduate graduation project, its summary is as follows&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non-line-of-sight imaging technology that can image objects outside the field of view has important application prospects in many fields, such as security and automatic driving. Traditional non-line-of-sight imaging studies usually use an imaging model to model the data acquisition process and reconstruct the hidden scene by solving the imaging model. At present, traditional imaging models is not accurate enough so that they can only reconstruct a simple hidden scene. In addition, traditional reconstruction algorithms have a long reconstruction time and are difficult to apply in real time applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In order to overcome the shortcomings of traditional imaging and improve the reconstruction speed, this paper proposes a three-dimensional reconstruction algorithm for non-line-of-sight imaging based on deep learning. The reconstruction algorithm firstly obtains 30,000 simulation data as a dataset by simulating existed imaging model. Then, we build, train and test a reconstructing algorithm based on deep learning using the conditional GAN with similar results to traditional reconstruction algorithms. Through contrast experiments, it is concluded that the deep learning-based reconstruction algorithm is more robust to parameter correction errors and can effectively reduce the high dependence on parameter calibration. In addition, based on deep learning, the reconstruction algorithm only needs 20ms to reconstruct a single hidden scene, while the traditional algorithm requires at least 0.2s. Therefore, the reconstruction algorithm based on deep learning can greatly improve the reconstruction speed of non-line-of-sight imaging. Finally, this paper analyzes the shortcomings and improvement schemes of the proposed non-line-of-sight imaging algorithm based on deep learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 然而，这个项目未能考虑到SPAD sensor带来的噪声，因此没能在公开的数据上取得良好的结果。2020年CVPR的如下工作使用U-Net取得了较好的结果： --&gt;
+&lt;p&gt;However, this project failed to take into account the noise caused by the SPAD sensor, so it failed to achieve good results on the public data. Chopite et al.&amp;rsquo;s work in CVPR 2020 has achieved good results using U-Net:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;J. G. Chopite, M. B. Hullin, M. Wand, and J. Iseringhausen, “Deep Non-Line-of-Sight Reconstruction,” 2020.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Route planning for Oxfordshire UAV blood transport </title>
+      <link>https://ruixu.netlify.app/project/route-planning-for-oxfordshire-uav-blood-transport/</link>
+      <pubDate>Sun, 25 Aug 2019 06:29:29 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/route-planning-for-oxfordshire-uav-blood-transport/</guid>
+      <description>&lt;!-- 血液制品对保存条件要求较高，如何快速地完成血液制品的运输是一个具有挑战性的问题。在这个项目中，我们针对无人机血液运输场景，以牛津郡为范围，综合考虑了法律、环境、人口等多个影响因素，评估使用无人机完成血液制品运输的可行性。 --&gt;
+&lt;p&gt;Blood products have high requirements for storage conditions, and how to quickly complete the transportation of blood products is a challenging problem. In this project, we aimed at the UAV blood transportation scenario, taking Oxfordshire as the scope, comprehensively considering multiple influencing factors such as law, environment, and population, and evaluated the feasibility of using UAVs to complete the transportation of blood products.&lt;/p&gt;
+&lt;!-- 这个项目是在牛津大学完成的。 --&gt;
+&lt;p&gt;This project was completed at Oxford University.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://ruixu.netlify.app/media/Brian%20Amy%20The%20British%20Grenadiers.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active NLOS imaging based on deep learning</title>
+      <link>https://ruixu.netlify.app/publication/example/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ruixu.netlify.app/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parameters Calibration and Imaging for CT System</title>
+      <link>https://ruixu.netlify.app/publication/parameters-calibration-and-imaging-for-ct-system/</link>
+      <pubDate>Tue, 25 Sep 2018 01:56:04 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/parameters-calibration-and-imaging-for-ct-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arduino-based automatic soil irrigation system</title>
+      <link>https://ruixu.netlify.app/project/arduino-based-automatic-soil-irrigation-system/</link>
+      <pubDate>Wed, 25 Jul 2018 07:12:05 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/arduino-based-automatic-soil-irrigation-system/</guid>
+      <description>&lt;!-- 我们在Arduino上连接温湿度传感器，它能够测量当前环境温湿度，并将数据实时传输到云端。当检测到温度和湿度符合灌溉要求时，控制阀门放水，同时向手机APP发出提示。 --&gt;
+&lt;p&gt;We connect a temperature and humidity sensor to the Arduino, which can measure the current ambient temperature and humidity and transmit the data to the cloud in real time. When it is detected that the temperature and humidity meet the irrigation requirements, the valve is controlled to release water and a reminder is sent to the mobile phone APP.&lt;/p&gt;
+&lt;p&gt;This is a project completed while at JCU in Australia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CT system parameter calibration and imaging</title>
+      <link>https://ruixu.netlify.app/project/ct-reconstruction/</link>
+      <pubDate>Mon, 25 Sep 2017 07:38:57 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/ct-reconstruction/</guid>
+      <description>&lt;p&gt;This project is concerned about CT system parameter calibration and imaging. First,a plane orthogonal coordinate system with the origin at the center of the ellipse is established. The analytical relationship between the length of the ray passing through the medium and the ray direction,the distance between the detector unit and the three parameters from the origin to the ray is given; Then the ratio of the information received by two adjacent receivers at each rotation is theoretically equal to the ratio of their corresponding rays through the length,using the receiver absorption information and the ratio of the corresponding ray to the length of the ray. Taking the least square error of the two values as the objective function, the nonlinear programming model is established to obtain the ray direction of the unit distance and rotation, and the parameters of the CT system are calibrated. In view of the reduction of receiver receiving information in CT system, a restoration model is established by using Radon inverse transform to solve and verify the intersection method of tangent area.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ruixu.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

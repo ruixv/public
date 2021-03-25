@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware | Ruixu&#39;s Homepage</title>
+    <link>https://ruixu.netlify.app/tag/hardware/</link>
+      <atom:link href="https://ruixu.netlify.app/tag/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hardware</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Jul 2018 07:12:05 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hardware</title>
+      <link>https://ruixu.netlify.app/tag/hardware/</link>
+    </image>
+    
+    <item>
+      <title>Arduino-based automatic soil irrigation system</title>
+      <link>https://ruixu.netlify.app/project/arduino-based-automatic-soil-irrigation-system/</link>
+      <pubDate>Wed, 25 Jul 2018 07:12:05 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/arduino-based-automatic-soil-irrigation-system/</guid>
+      <description>&lt;!-- 我们在Arduino上连接温湿度传感器，它能够测量当前环境温湿度，并将数据实时传输到云端。当检测到温度和湿度符合灌溉要求时，控制阀门放水，同时向手机APP发出提示。 --&gt;
+&lt;p&gt;We connect a temperature and humidity sensor to the Arduino, which can measure the current ambient temperature and humidity and transmit the data to the cloud in real time. When it is detected that the temperature and humidity meet the irrigation requirements, the valve is controlled to release water and a reminder is sent to the mobile phone APP.&lt;/p&gt;
+&lt;p&gt;This is a project completed while at JCU in Australia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

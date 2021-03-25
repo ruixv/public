@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reconstruction | Chinese website title...</title>
+    <link>https://ruixu.netlify.app/zh/tag/reconstruction/</link>
+      <atom:link href="https://ruixu.netlify.app/zh/tag/reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <description>reconstruction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 25 Sep 2018 01:56:04 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>reconstruction</title>
+      <link>https://ruixu.netlify.app/zh/tag/reconstruction/</link>
+    </image>
+    
+    <item>
+      <title>Parameters Calibration and Imaging for CT System</title>
+      <link>https://ruixu.netlify.app/zh/publication/parameters-calibration-and-imaging-for-ct-system/</link>
+      <pubDate>Tue, 25 Sep 2018 01:56:04 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/publication/parameters-calibration-and-imaging-for-ct-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

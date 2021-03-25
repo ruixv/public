@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLOS imaging | Ruixu&#39;s Homepage</title>
+    <link>https://ruixu.netlify.app/tag/nlos-imaging/</link>
+      <atom:link href="https://ruixu.netlify.app/tag/nlos-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLOS imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 02:26:10 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>NLOS imaging</title>
+      <link>https://ruixu.netlify.app/tag/nlos-imaging/</link>
+    </image>
+    
+    <item>
+      <title>A paper about passive NLOS imaging</title>
+      <link>https://ruixu.netlify.app/publication/a-paper-about-passive-nlos-imaging/</link>
+      <pubDate>Thu, 25 Mar 2021 02:26:10 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/a-paper-about-passive-nlos-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passive NLOS imaging based on menifold embedding</title>
+      <link>https://ruixu.netlify.app/project/passive-nlos-imaging-based-on-menifold-embedding/</link>
+      <pubDate>Sun, 25 Oct 2020 06:28:31 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/passive-nlos-imaging-based-on-menifold-embedding/</guid>
+      <description>&lt;!-- 被动非视距成像是一个极为病态的问题，本项目旨在通过深度学习完成数据驱动的被动非视距成像任务。所提出的算法能够利用之前未被充分利用的场景先验，从而提高被动非视距成像的效果。 --&gt;
+&lt;p&gt;Passive NLOS imaging is an extremely pathological problem. This project aims to complete data-driven passive NLOS imaging through deep learning. The proposed algorithm can make use of previously underutilized scene priors, thereby improving the effect of passive NLOS imaging.&lt;/p&gt;
+&lt;!-- 我们还采集了一个有着more than 3,000,000样本的数据集，希望能够缓解非视距成像所面临的数据集不足问题。毕竟监督算法的性能在很大程度上取决于数据集的质量。 --&gt;
+&lt;p&gt;We also collected a data set with more than 3,000,000 samples, hoping to alleviate the problem of insufficient data set faced by NLOS imaging. After all, the performance of the supervised algorithm depends to a large extent on the quality of the dataset.&lt;/p&gt;
+&lt;!-- 本项目已经提交到了一个期刊。 --&gt;
+&lt;p&gt;This project has been submitted to a journal.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build Confocal NLOS Imaging platform </title>
+      <link>https://ruixu.netlify.app/project/build-confocal-nlos-imaging-platform/</link>
+      <pubDate>Sat, 25 Jan 2020 04:41:26 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/build-confocal-nlos-imaging-platform/</guid>
+      <description>&lt;!-- 2018年中，在导师的指导下，我们打算follow 斯坦福大学O&#39;Toole等人在 time-resolved NLOS imaging上的工作
+
+M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: https://doi.org/10.1038/nature25489.
+
+并购买了相应的设备，包括超快脉冲激光器、单光子雪崩二极管、时间相关单光子计数器等，并购买了光学平台。
+
+尽管我们实验室并没有光学实验的基础，但我们还是建立了共焦NLOS成像系统。这个系统目前能够对一些简单的NLOS场景成像，但仍存在时间抖动很大的问题。目前我们正在积极解决已经发现的问题。 --&gt;
+&lt;p&gt;In mid-2018, under the guidance of our mentor, we plan to follow the work of Stanford University O&amp;rsquo;Toole and others on time-resolved NLOS imaging&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: &lt;a href=&#34;https://doi.org/10.1038/nature25489&#34;&gt;https://doi.org/10.1038/nature25489&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We purchased corresponding equipment, including ultrafast pulse lasers, single-photon avalanche diodes, time-dependent single-photon counters, etc., and purchased an optical platform.&lt;/p&gt;
+&lt;p&gt;Although our laboratory does not have a basis for optical experiments, we have established a confocal NLOS imaging system. This system can currently image some simple NLOS scenes, but there is still a problem of large time jitter (which means a low horizontal resolution). At present, we are trying our best to improve the reconstruction quality from both perspective of hardware and algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time-resolved NLOS imaging algorithm based on GAN</title>
+      <link>https://ruixu.netlify.app/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</link>
+      <pubDate>Wed, 25 Sep 2019 07:10:12 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</guid>
+      <description>&lt;!-- 本项目是我的本科毕业设计，它的摘要如下。 --&gt;
+&lt;p&gt;This project is my undergraduate graduation project, its summary is as follows&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Non-line-of-sight imaging technology that can image objects outside the field of view has important application prospects in many fields, such as security and automatic driving. Traditional non-line-of-sight imaging studies usually use an imaging model to model the data acquisition process and reconstruct the hidden scene by solving the imaging model. At present, traditional imaging models is not accurate enough so that they can only reconstruct a simple hidden scene. In addition, traditional reconstruction algorithms have a long reconstruction time and are difficult to apply in real time applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In order to overcome the shortcomings of traditional imaging and improve the reconstruction speed, this paper proposes a three-dimensional reconstruction algorithm for non-line-of-sight imaging based on deep learning. The reconstruction algorithm firstly obtains 30,000 simulation data as a dataset by simulating existed imaging model. Then, we build, train and test a reconstructing algorithm based on deep learning using the conditional GAN with similar results to traditional reconstruction algorithms. Through contrast experiments, it is concluded that the deep learning-based reconstruction algorithm is more robust to parameter correction errors and can effectively reduce the high dependence on parameter calibration. In addition, based on deep learning, the reconstruction algorithm only needs 20ms to reconstruct a single hidden scene, while the traditional algorithm requires at least 0.2s. Therefore, the reconstruction algorithm based on deep learning can greatly improve the reconstruction speed of non-line-of-sight imaging. Finally, this paper analyzes the shortcomings and improvement schemes of the proposed non-line-of-sight imaging algorithm based on deep learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- 然而，这个项目未能考虑到SPAD sensor带来的噪声，因此没能在公开的数据上取得良好的结果。2020年CVPR的如下工作使用U-Net取得了较好的结果： --&gt;
+&lt;p&gt;However, this project failed to take into account the noise caused by the SPAD sensor, so it failed to achieve good results on the public data. Chopite et al.&amp;rsquo;s work in CVPR 2020 has achieved good results using U-Net:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;J. G. Chopite, M. B. Hullin, M. Wand, and J. Iseringhausen, “Deep Non-Line-of-Sight Reconstruction,” 2020.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active NLOS imaging based on deep learning</title>
+      <link>https://ruixu.netlify.app/publication/example/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

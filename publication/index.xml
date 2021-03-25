@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ruixu&#39;s Homepage</title>
+    <link>https://ruixu.netlify.app/publication/</link>
+      <atom:link href="https://ruixu.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 02:26:10 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://ruixu.netlify.app/publication/</link>
+    </image>
+    
+    <item>
+      <title>A paper about passive NLOS imaging</title>
+      <link>https://ruixu.netlify.app/publication/a-paper-about-passive-nlos-imaging/</link>
+      <pubDate>Thu, 25 Mar 2021 02:26:10 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/a-paper-about-passive-nlos-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-Preserving Extremely Low Light Image Enhancement with Fractional Order Differential Mask Guidance</title>
+      <link>https://ruixu.netlify.app/publication/structure-preserving-extremely-low-light-image-enhancement-with-fractional-order-differential-mask-guidance/</link>
+      <pubDate>Thu, 25 Mar 2021 02:03:03 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/structure-preserving-extremely-low-light-image-enhancement-with-fractional-order-differential-mask-guidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active NLOS imaging based on deep learning</title>
+      <link>https://ruixu.netlify.app/publication/example/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parameters Calibration and Imaging for CT System</title>
+      <link>https://ruixu.netlify.app/publication/parameters-calibration-and-imaging-for-ct-system/</link>
+      <pubDate>Tue, 25 Sep 2018 01:56:04 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/publication/parameters-calibration-and-imaging-for-ct-system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

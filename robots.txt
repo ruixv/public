@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ruixu.netlify.app/sitemap.xml

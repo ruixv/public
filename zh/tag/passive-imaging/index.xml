@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Passive imaging | Chinese website title...</title>
+    <link>https://ruixu.netlify.app/zh/tag/passive-imaging/</link>
+      <atom:link href="https://ruixu.netlify.app/zh/tag/passive-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Passive imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 25 Oct 2020 06:28:31 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Passive imaging</title>
+      <link>https://ruixu.netlify.app/zh/tag/passive-imaging/</link>
+    </image>
+    
+    <item>
+      <title>基于流形嵌入的被动非视距成像</title>
+      <link>https://ruixu.netlify.app/zh/project/passive-nlos-imaging-based-on-menifold-embedding/</link>
+      <pubDate>Sun, 25 Oct 2020 06:28:31 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/passive-nlos-imaging-based-on-menifold-embedding/</guid>
+      <description>&lt;!-- 被动非视距成像是一个极为病态的问题，本项目旨在通过深度学习完成数据驱动的被动非视距成像任务。所提出的算法能够利用之前未被充分利用的场景先验，从而提高被动非视距成像的效果。 --&gt;
+&lt;p&gt;被动非视距成像是一个极为病态的问题，本项目旨在通过深度学习完成数据驱动的被动非视距成像任务。所提出的算法能够利用之前未被充分利用的场景先验，从而提高被动非视距成像的效果。&lt;/p&gt;
+&lt;!-- 我们还采集了一个有着more than 3,000,000样本的数据集，希望能够缓解非视距成像所面临的数据集不足问题。毕竟监督算法的性能在很大程度上取决于数据集的质量。 --&gt;
+&lt;p&gt;我们还采集了一个有着more than 3,000,000样本的数据集，希望能够缓解非视距成像所面临的数据集不足问题。毕竟监督算法的性能在很大程度上取决于数据集的质量。&lt;/p&gt;
+&lt;!-- 本项目已经提交到了一个期刊。 --&gt;
+&lt;p&gt;本项目已经提交到了一个IEEE期刊。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

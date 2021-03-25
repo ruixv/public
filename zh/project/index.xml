@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Chinese website title...</title>
+    <link>https://ruixu.netlify.app/zh/project/</link>
+      <atom:link href="https://ruixu.netlify.app/zh/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 25 Oct 2020 06:28:31 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://ruixu.netlify.app/zh/project/</link>
+    </image>
+    
+    <item>
+      <title>基于流形嵌入的被动非视距成像</title>
+      <link>https://ruixu.netlify.app/zh/project/passive-nlos-imaging-based-on-menifold-embedding/</link>
+      <pubDate>Sun, 25 Oct 2020 06:28:31 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/passive-nlos-imaging-based-on-menifold-embedding/</guid>
+      <description>&lt;!-- 被动非视距成像是一个极为病态的问题，本项目旨在通过深度学习完成数据驱动的被动非视距成像任务。所提出的算法能够利用之前未被充分利用的场景先验，从而提高被动非视距成像的效果。 --&gt;
+&lt;p&gt;被动非视距成像是一个极为病态的问题，本项目旨在通过深度学习完成数据驱动的被动非视距成像任务。所提出的算法能够利用之前未被充分利用的场景先验，从而提高被动非视距成像的效果。&lt;/p&gt;
+&lt;!-- 我们还采集了一个有着more than 3,000,000样本的数据集，希望能够缓解非视距成像所面临的数据集不足问题。毕竟监督算法的性能在很大程度上取决于数据集的质量。 --&gt;
+&lt;p&gt;我们还采集了一个有着more than 3,000,000样本的数据集，希望能够缓解非视距成像所面临的数据集不足问题。毕竟监督算法的性能在很大程度上取决于数据集的质量。&lt;/p&gt;
+&lt;!-- 本项目已经提交到了一个期刊。 --&gt;
+&lt;p&gt;本项目已经提交到了一个IEEE期刊。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>搭建共焦非视距成像平台</title>
+      <link>https://ruixu.netlify.app/zh/project/build-confocal-nlos-imaging-platform/</link>
+      <pubDate>Sat, 25 Jan 2020 04:41:26 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/build-confocal-nlos-imaging-platform/</guid>
+      <description>&lt;p&gt;2018年中，在导师的指导下，我们打算复现斯坦福大学O&amp;rsquo;Toole等人在时间分辨主动非视域成像方面的工作&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: &lt;a href=&#34;https://doi.org/10.1038/nature25489&#34;&gt;https://doi.org/10.1038/nature25489&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;之后，我们购买了相应的设备，包括超快脉冲激光器、单光子雪崩二极管、时间相关单光子计数器等，并购买了光学平台。&lt;/p&gt;
+&lt;p&gt;尽管实验室并没有光学实验的基础，但我们还是建立了共焦NLOS成像系统。这个系统目前能够对一些简单的NLOS场景成像，但仍存在时间抖动很大的问题。除此之外，我们的函数发生器目前也还存在一些问题，无法和扫描振镜精确同步从而完成高速扫描。目前我们正在积极解决这些已经发现的问题。&lt;/p&gt;
+&lt;!-- In mid-2018, under the guidance of our mentor, we plan to follow the work of Stanford University O&#39;Toole and others on time-resolved NLOS imaging
+
+&gt; M. O’Toole, D. B. Lindell, and G. Wetzstein, “Confocal non-line-of-sight imaging based on the light-cone transform,” Nature, vol. 555, no. 7696, p. 338, 2018, doi: https://doi.org/10.1038/nature25489.
+
+We purchased corresponding equipment, including ultrafast pulse lasers, single-photon avalanche diodes, time-dependent single-photon counters, etc., and purchased an optical platform.
+
+Although our laboratory does not have a basis for optical experiments, we have established a confocal NLOS imaging system. This system can currently image some simple NLOS scenes, but there is still a problem of large time jitter (which means a low horizontal resolution). At present, we are trying our best to improve the reconstruction quality from both perspective of hardware and algorithm. --&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于GAN的单光子非视域成像</title>
+      <link>https://ruixu.netlify.app/zh/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</link>
+      <pubDate>Wed, 25 Sep 2019 07:10:12 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</guid>
+      <description>&lt;!-- 本项目是我的本科毕业设计，它的摘要如下。 --&gt;
+&lt;p&gt;本项目是我的本科毕业设计。&lt;/p&gt;
+&lt;p&gt;非视距成像是一个病态问题，因此使用各种先验作为约束是实现高质量重建必须采用的方法。已有的非视距成像研究已经充分考虑了非负性、稀疏性等先验，但缺乏对场景先验的有效利用。深度学习算法能够很好地学习场景先验。因此，我们尝试将深度学习（GAN）应用到非视距成像问题中。我们首先基于LCT模型，通过数据渲染的方法得到了共焦NLOS仿真数据集；之后仿照DeblurGAN构建了一个3D to 3D的生成对抗网络。通过训练和测试，我们的网络能够在仿真数据上取得优秀的效果。&lt;/p&gt;
+&lt;!-- 然而，这个项目未能考虑到SPAD sensor带来的噪声，因此没能在公开的数据上取得良好的结果。2020年CVPR的如下工作使用U-Net取得了较好的结果： --&gt;
+&lt;p&gt;然而，这个项目未能考虑到SPAD sensor带来的噪声，因此没能在公开的数据上取得良好的结果。后来，2020年CVPR中的如下工作考虑了SPAD sensor带来的噪声，并使用3D U-Net取得了较好的结果：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;J. G. Chopite, M. B. Hullin, M. Wand, and J. Iseringhausen, “Deep Non-Line-of-Sight Reconstruction,” 2020.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>牛津郡无人机血液运输问题路径规划</title>
+      <link>https://ruixu.netlify.app/zh/project/route-planning-for-oxfordshire-uav-blood-transport/</link>
+      <pubDate>Sun, 25 Aug 2019 06:29:29 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/route-planning-for-oxfordshire-uav-blood-transport/</guid>
+      <description>&lt;!-- 血液制品对保存条件要求较高，如何快速地完成血液制品的运输是一个具有挑战性的问题。在这个项目中，我们针对无人机血液运输场景，以牛津郡为范围，综合考虑了法律、环境、人口等多个影响因素，评估使用无人机完成血液制品运输的可行性。 --&gt;
+&lt;p&gt;血液制品对保存条件要求较高，如何快速地完成血液制品的运输是一个具有挑战性的问题。在这个项目中，我们针对无人机血液运输场景，以牛津郡为范围，综合考虑了法律、环境、人口等多个影响因素，评估使用无人机完成血液制品运输的可行性。&lt;/p&gt;
+&lt;!-- 这个项目是在牛津大学完成的。 --&gt;
+&lt;p&gt;这个项目是在牛津大学完成的。 下方是一个结果展示视频。&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://ruixu.netlify.app/media/Brian%20Amy%20The%20British%20Grenadiers.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>基于Arduino的自动灌溉系统</title>
+      <link>https://ruixu.netlify.app/zh/project/arduino-based-automatic-soil-irrigation-system/</link>
+      <pubDate>Wed, 25 Jul 2018 07:12:05 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/arduino-based-automatic-soil-irrigation-system/</guid>
+      <description>&lt;!-- 我们在Arduino上连接温湿度传感器，它能够测量当前环境温湿度，并将数据实时传输到云端。当检测到温度和湿度符合灌溉要求时，控制阀门放水，同时向手机APP发出提示。 --&gt;
+&lt;p&gt;我们在Arduino上连接温湿度传感器，它能够测量当前环境温湿度，并将数据实时传输到云端。当检测到温度和湿度符合灌溉要求时，控制阀门放水，同时向手机APP发出提示。&lt;/p&gt;
+&lt;!-- This is a project completed while at JCU in Australia. --&gt;
+&lt;p&gt;本项目是在澳大利亚JCU完成的。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CT系统参数标定和成像</title>
+      <link>https://ruixu.netlify.app/zh/project/ct-reconstruction/</link>
+      <pubDate>Mon, 25 Sep 2017 07:38:57 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/ct-reconstruction/</guid>
+      <description>&lt;p&gt;本项目针对对CT系统参数标定问题，基于直接搜索的方法，建立了两个非线性规划模型，得到CT系统的3个参数；针对CT系统接收器接收信息的还原问题，建立了利用Radon反变换进行求解、切线区域取交集法进行验证的复原模型。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

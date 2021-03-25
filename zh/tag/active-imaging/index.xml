@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Active Imaging | Chinese website title...</title>
+    <link>https://ruixu.netlify.app/zh/tag/active-imaging/</link>
+      <atom:link href="https://ruixu.netlify.app/zh/tag/active-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Active Imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 25 Sep 2019 07:10:12 +0000</lastBuildDate>
+    <image>
+      <url>https://ruixu.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Active Imaging</title>
+      <link>https://ruixu.netlify.app/zh/tag/active-imaging/</link>
+    </image>
+    
+    <item>
+      <title>基于GAN的单光子非视域成像</title>
+      <link>https://ruixu.netlify.app/zh/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</link>
+      <pubDate>Wed, 25 Sep 2019 07:10:12 +0000</pubDate>
+      <guid>https://ruixu.netlify.app/zh/project/time-resolved-non-line-of-sight-imaging-algorithm-based-on-gan/</guid>
+      <description>&lt;!-- 本项目是我的本科毕业设计，它的摘要如下。 --&gt;
+&lt;p&gt;本项目是我的本科毕业设计。&lt;/p&gt;
+&lt;p&gt;非视距成像是一个病态问题，因此使用各种先验作为约束是实现高质量重建必须采用的方法。已有的非视距成像研究已经充分考虑了非负性、稀疏性等先验，但缺乏对场景先验的有效利用。深度学习算法能够很好地学习场景先验。因此，我们尝试将深度学习（GAN）应用到非视距成像问题中。我们首先基于LCT模型，通过数据渲染的方法得到了共焦NLOS仿真数据集；之后仿照DeblurGAN构建了一个3D to 3D的生成对抗网络。通过训练和测试，我们的网络能够在仿真数据上取得优秀的效果。&lt;/p&gt;
+&lt;!-- 然而，这个项目未能考虑到SPAD sensor带来的噪声，因此没能在公开的数据上取得良好的结果。2020年CVPR的如下工作使用U-Net取得了较好的结果： --&gt;
+&lt;p&gt;然而，这个项目未能考虑到SPAD sensor带来的噪声，因此没能在公开的数据上取得良好的结果。后来，2020年CVPR中的如下工作考虑了SPAD sensor带来的噪声，并使用3D U-Net取得了较好的结果：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;J. G. Chopite, M. B. Hullin, M. Wand, and J. Iseringhausen, “Deep Non-Line-of-Sight Reconstruction,” 2020.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
