@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Active Imaging | Chinese website title...</title>
+    <title>Active Imaging | 中文主页</title>
     <link>https://ruixu.netlify.app/zh/tag/active-imaging/</link>
       <atom:link href="https://ruixu.netlify.app/zh/tag/active-imaging/index.xml" rel="self" type="application/rss+xml" />
     <description>Active Imaging</description>
